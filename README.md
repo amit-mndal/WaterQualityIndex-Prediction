@@ -11,7 +11,8 @@ Our goal is to develop a predictive model for the Water Quality Index of the Riv
 
 Water Quality Index (WQI)--
 Water quality index (WQI) is one of the most used tools to describe water quality. It is based on physical, chemical, and biological factors that are combined into a single value that ranges from 0 to 100 and involves 4 processes:
- (1) parameter selection
+
+(1) parameter selection
 
 (2) Development of a rating scale to obtain the rating (Vr)
 
@@ -22,7 +23,8 @@ Water quality index (WQI) is one of the most used tools to describe water qualit
 (5) Aggregation of sub-index values to obtain the overall WQI
 
 The Water Quality Index uses six parameters, which are BOD, DO, Conductivity, pH, E.coli. Nitrate. To obtain the WQI value, all parameters needed to be converted first into subindices (SI), namely SIBOD SIDO, SIEC, SIpH, SIN and SIE.coli. Then, the calculation of WQI was performed by substituting all sub indices of the six parameters into the WQI formula. 
-              # WQI = ∑ Sli
+
+          # WQI = ∑ Sli
 
 Where, WQI is the Water Quality Index. n is the number of water quality parameters
 
