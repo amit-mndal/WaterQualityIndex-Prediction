@@ -12,13 +12,13 @@ Our goal is to develop a predictive model for the Water Quality Index of the Riv
 Water Quality Index (WQI)--
 Water quality index (WQI) is one of the most used tools to describe water quality. It is based on physical, chemical, and biological factors that are combined into a single value that ranges from 0 to 100 and involves 4 processes:
 
-(1) parameter selection
+(1) Parameter selection
 
 (2) Development of a rating scale to obtain the rating (Vr)
 
-(3) considering the weightage of each parameter (Wi)
+(3) Considering the weightage of each parameter (Wi)
 
-(4) Determining the subindex value (Wix Vr)
+(4) Determining the subindex value (Wi x Vr)
 
 (5) Aggregation of sub-index values to obtain the overall WQI
 
