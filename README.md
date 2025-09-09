@@ -14,9 +14,9 @@ Water quality index (WQI) is one of the most used tools to describe water qualit
 
 (1) Parameter selection
 
-(2) Development of a rating scale to obtain the rating (Vr) - Lies between 0 to 100 where 0 means polluted and 100 means desirable
+(2) Development of a rating scale to obtain the rating (Vr) - Lies between 0 to 100 where 0 means polluted and 100 means desirable.
 
-(3) Considering the weightage of each parameter (Wi)
+(3) Considering the weightage of each parameter (Wi) - country specific based on importance on water quality and health.
 
 (4) Determining the subindex value (Wi x Vr)
 
