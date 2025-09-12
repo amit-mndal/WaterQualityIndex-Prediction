@@ -34,7 +34,7 @@ Where, "Sli" is the subindex rating..
 
 "Wi" is the unit weight
 
-"Vr" is the rating which can be obtained from a rating scale based on all the parameters
+"Vr" is the Quality rating which can be obtained from a rating scale based on all the parameters
 
 
 
