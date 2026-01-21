@@ -1,6 +1,6 @@
 # WaterQualityIndex-Prediction
 
-#Water Quality Index Prediction of River Ganga using Machine Learning Models.
+#Water Quality Index Prediction of River Ganga using Machine Learning Models., 
 
                                              Objectives
 We are given a research paper named, Kosha A. Shah1 Geeta S. Joshi “Evaluation of water quality index for River Sabarmati”, Gujarat, India for a comparative study of river Ganga to measure it’s water quality and label whether it is good for human consumption or not.
