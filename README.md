@@ -7,6 +7,7 @@ We are given a research paper named, Kosha A. Shah1 Geeta S. Joshi “Evaluat
 
 In our study the primary approach being used in water quality assessment is the Water Quality Index. The main aim of this project is to implement the machine learning model according to the applied algorithms and which machine learning algorithms' performance is more accurate indicating it perfectly predicts the water quality classifications in the testing set.
 
+
 Our goal is to develop a predictive model for the Water Quality Index of the River Ganga. By leveraging machine learning algorithms, we intend to establish a robust system that can forecast water quality levels based on relevant environmental parameters.
 
 Water Quality Index (WQI)-
