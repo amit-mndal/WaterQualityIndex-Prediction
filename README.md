@@ -1,5 +1,6 @@
 # WaterQualityIndex-Prediction
 
+
 #Water Quality Index Prediction of River Ganga using Machine Learning Models.
 
                                              Objectives
